@@ -1,6 +1,12 @@
-### Hi there, I'm Zakaria Sumon
+### Hi there 👋, Zakaria Sumon
 
-## I'm frontend Web Developer!!
+#### frontend Web Developer
+
+![frontend Web Developer](https://zakaria-sumon.netlify.app/static/124534a3125ce276f9d169f8847cab07/ee604/hero-img1.png)
+
+Hi! I'm HM Zakaria Sumon. Welcome to my page. I'm a freelance Web Designer and Developer. My job is to build your website so that it is functional and user-friendly. I have a strong passion for the creativity and discipline that goes into front-end development. Keeping in mind scalability and cline code that is maintainable and readable. By night I spend my time working on a freelance project and building my products. I am very interested in web design and development. it is my hobby and profession. So I complete my work by mixing the sweetness of mind with discipline and a sense of responsibility.
+
+Skills: HTML, CSS, JAVASCRIPT, REACT, GATSBY, NODE.JS, STRAPI, MONGODB, PHOTOSHOP, ILLUSTRATROR, PHP, MYSQLI, NEXT.JS
 
 - 🌱 I’m currently learning everything 🤣
 - 🖥️ I’m looking for a remote job!!
@@ -9,21 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="zakaria-sumon.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Zakaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Zakaria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-<br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/https://github.com/hmzsumon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zakaria-sumon-7b7b021a9/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/https://www.facebook.com/hussain.m.zakaria/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/https://twitter.com/zakaria_sumon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://zakaria-sumon.netlify.app)
 
 ### Languages and Tools:
 
@@ -43,8 +35,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 <br />
 <br />
-
----
 
 [website]: https://zakaria-sumon.netlify.app
 [twitter]: https://twitter.com/zakaria_sumon
